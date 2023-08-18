@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Zaki Chen</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cnzakii&label=Profile%20views&color=0e75b6&style=flat" alt="cnzakii" /> </p>
 
 - 🔭 I’m currently working on [PPeng](https://github.com/cnzakii/PPeng)
 
