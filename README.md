@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [PPeng](https://github.com/cnzakii/PPeng)
 
-- 🌱 I’m currently learning **Vue and SwiftUI** etc.
+- 🌱 I’m currently learning **Vue** now
 
 - 👨‍💻 All of my projects are available at [cnzakii](https://github.com/cnzakii)
 
