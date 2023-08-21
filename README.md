@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=040C10&center=true&width=435&lines=%3E%3EHi+%F0%9F%91%8B%2C+I'm+Zaki+Chen" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=040C10&center=true&width=435&lines=%3E%3EHi+%F0%9F%91%8B%2C+I'm+Zaki+Chen" alt="Typing SVG" /></a>
 - 🔭 I’m currently working on [PPeng](https://github.com/cnzakii/PPeng)
 
 - 🌱 I’m currently learning **Vue** now
