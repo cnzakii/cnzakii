@@ -25,7 +25,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-211%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-211%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -68,18 +68,18 @@ Sunday                   43 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     1 hr 34 mins        █████████████████████████   100.00 % 
+Java                     1 hr 39 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-IntelliJ                 1 hr 34 mins        █████████████████████████   100.00 % 
+IntelliJ                 1 hr 39 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-software-design          1 hr 8 mins         ██████████████████░░░░░░░   72.61 % 
-leetcode_study           23 mins             ██████░░░░░░░░░░░░░░░░░░░   24.45 % 
-Unknown Project          2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+software-design          1 hr 8 mins         █████████████████░░░░░░░░   68.92 % 
+leetcode_study           28 mins             ███████░░░░░░░░░░░░░░░░░░   28.28 % 
+Unknown Project          2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
 
 💻 Operating System: 
-Mac                      1 hr 34 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 39 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -96,7 +96,7 @@ JavaScript               2 repos             ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/cnzakii/cnzakii/main/assets/bar_graph.png)
 
 
- Last Updated on 07/01/2024 18:35:07 UTC
+ Last Updated on 08/01/2024 18:36:35 UTC
 <!--END_SECTION:waka-->
 
 <p>&nbsp;
