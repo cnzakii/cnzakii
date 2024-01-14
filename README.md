@@ -1,7 +1,4 @@
 <a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=040C10&center=true&width=435&lines=%3E%3EHi+%F0%9F%91%8B%2C+I'm+Zaki+Chen" alt="Typing SVG" /></a>
-- 🔭 I’m currently working on [DyeingPie](https://github.com/cnzakii/DyeingPie)
-
-- 🌱 I’m currently learning **Vue** now
 
 - 👨‍💻 All of my projects are available at [cnzakii](https://github.com/cnzakii)
 
