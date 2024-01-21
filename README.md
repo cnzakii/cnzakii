@@ -22,13 +22,15 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-214%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-215%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 38.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 1 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -63,20 +65,19 @@ Sunday                   44 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     2 hrs 33 mins       █████████████████████████   100.00 % 
+Java                     2 hrs 10 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Intellijidea             1 hr 57 mins        ███████████████████░░░░░░   76.61 % 
-IntelliJ                 35 mins             ██████░░░░░░░░░░░░░░░░░░░   23.39 % 
+Intellijidea             2 hrs 10 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-software-design          52 mins             █████████░░░░░░░░░░░░░░░░   34.27 % 
-leetcode_study           51 mins             ████████░░░░░░░░░░░░░░░░░   33.75 % 
-ppeng-backend-v1         44 mins             ███████░░░░░░░░░░░░░░░░░░   29.20 % 
-Unknown Project          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+software-design          53 mins             ██████████░░░░░░░░░░░░░░░   40.58 % 
+ppeng-backend-v1         44 mins             █████████░░░░░░░░░░░░░░░░   34.29 % 
+leetcode_study           28 mins             █████░░░░░░░░░░░░░░░░░░░░   21.77 % 
+Unknown Project          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
 
 💻 Operating System: 
-Mac                      2 hrs 33 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -93,7 +94,7 @@ JavaScript               2 repos             ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/cnzakii/cnzakii/main/assets/bar_graph.png)
 
 
- Last Updated on 20/01/2024 18:34:39 UTC
+ Last Updated on 21/01/2024 18:35:39 UTC
 <!--END_SECTION:waka-->
 
 <p>&nbsp;
