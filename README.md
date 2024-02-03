@@ -24,7 +24,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-217%20hrs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
 **🐱 My GitHub Data** 
 
@@ -94,7 +94,7 @@ JavaScript               2 repos             ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/cnzakii/cnzakii/main/assets/bar_graph.png)
 
 
- Last Updated on 03/02/2024 05:46:12 UTC
+ Last Updated on 03/02/2024 18:34:37 UTC
 <!--END_SECTION:waka-->
 
 <p>&nbsp;
