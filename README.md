@@ -1,4 +1,4 @@
-<div align="center">
+
     <!-- dynamic typing effect 动态打字效果 -->
     <div>
         <a href="https://cnzakii.com">
@@ -6,7 +6,7 @@
         </a>
     </div>
 
-
+<div align="center">
     <!-- GitHub Streak -->
     <div>
          <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=cnzakii&theme=default)](https://git.io/streak-stats" />
