@@ -1,8 +1,7 @@
-### Hi there 👋
 <!-- dynamic typing effect 动态打字效果 -->
 <div>
     <a href="https://cnzakii.com">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=10000&color=000000&random=false&width=435&lines=Hi+%2C+I+am+Zaki+Chen+%F0%9F%91%8B" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=10000&color=000000&random=false&width=435&lines=Hi+%2C+I+am+Zaki+Chen+%F0%9F%91%8B" alt="Typing SVG" />
     </a>
 </div>
 
