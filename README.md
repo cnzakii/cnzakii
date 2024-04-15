@@ -8,9 +8,18 @@
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Cowboy Hat Face" width="30" height="30" /> Hello 
 
+## About Me
 <p>Hi, I'm Zaki Chen, a backend developer from China. </p>
 <p>I've recently started delving into and falling in love with the wonderful world of open source. Now, I've embarked on this open source journey and am determined to keep going.</p>
 
+## My Skill Tree
+### Skills Acquired
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=java,py,spring,,mysql,redis,rabbitmq,docker" />
+</p>
+
+### Skills Being Learned
+<p>secret</p>
 
 <div align="center">
 <!-- GitHub Streak -->
