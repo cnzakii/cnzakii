@@ -1,3 +1,4 @@
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Cowboy Hat Face" width="30" height="30" /> Hello 
 
 <!-- dynamic typing effect 动态打字效果 -->
 <div>
@@ -6,27 +7,21 @@
     </a>
 </div>
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Cowboy Hat Face" width="30" height="30" /> Hello 
+<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+<div>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/cnzakii/cnzakii/profile-snake-contribution/github-contribution-grid-snake-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/cnzakii/cnzakii/profile-snake-contribution/github-contribution-grid-snake.svg" />
+        <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    </picture>
+</div>
 
-## About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Slightly%20Smiling%20Face.png" alt="Slightly Smiling Face" width="25" height="25" />About Me
 <p>Hi, I'm Zaki Chen, a backend developer from China. </p>
 <p>I've recently started delving into and falling in love with the wonderful world of open source. Now, I've embarked on this open source journey and am determined to keep going.</p>
 
-## My Skill Tree
-### Skills Acquired
-<img src="https://skillicons.dev/icons?i=java,py,spring,mysql,redis,rabbitmq,docker&perline=10" />
 
-### Skills Being Learned
-<p>secret</p>
-
-<div align="center">
-<!-- GitHub Streak -->
-<div>
-    <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=cnzakii&theme=default)](https://git.io/streak-stats" />
-</div>
-
-
-
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dashing%20Away.png" alt="Dashing Away" width="25" height="25" /> GitHub Activity
 
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
@@ -42,13 +37,6 @@
     </tr>
 </table>
 
-<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-<div>
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/cnzakii/cnzakii/profile-snake-contribution/github-contribution-grid-snake-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/cnzakii/cnzakii/profile-snake-contribution/github-contribution-grid-snake.svg" />
-        <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    </picture>
-</div>
+
 
 </div>
