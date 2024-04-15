@@ -8,7 +8,7 @@
 </div>
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-<div>
+<div align="center">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/cnzakii/cnzakii/profile-snake-contribution/github-contribution-grid-snake-dark.svg" />
         <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/cnzakii/cnzakii/profile-snake-contribution/github-contribution-grid-snake.svg" />
@@ -38,6 +38,10 @@
     </tr>
 </table>
 
+<!-- profile-3d-contrib 3D 贡献图-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/cnzakii/cnzakii/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/cnzakii/cnzakii/profile-3d-contrib/profile-gitblock.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/cnzakii/cnzakii/profile-3d-contrib/profile-night-rainbow.svg" />
+</picture>
 
-
-</div>
