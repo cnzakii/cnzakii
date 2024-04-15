@@ -8,8 +8,8 @@
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Cowboy Hat Face" width="30" height="30" /> Hello 
 
-Hi, I'm Zaki Chen, a backend developer from China. 
-I've recently started delving into and falling in love with the wonderful world of open source. Now, I've embarked on this open source journey and am determined to keep going.
+<p>&emsp;&emsp;Hi, I'm Zaki Chen, a backend developer from China. </p>
+<p>&emsp;&emsp;I've recently started delving into and falling in love with the wonderful world of open source. Now, I've embarked on this open source journey and am determined to keep going.</p>
 
 
 <div align="center">
