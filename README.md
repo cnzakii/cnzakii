@@ -14,9 +14,7 @@
 
 ## My Skill Tree
 ### Skills Acquired
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=java,py,spring,,mysql,redis,rabbitmq,docker&perline=10" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,py,spring,mysql,redis,rabbitmq,docker&perline=10" />
 
 ### Skills Being Learned
 <p>secret</p>
