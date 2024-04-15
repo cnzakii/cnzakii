@@ -7,6 +7,8 @@
     </a>
 </div>
 
+<div>&nbsp;</div>
+
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <div align="center">
     <picture>
@@ -19,7 +21,7 @@
 <div>&nbsp;</div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Slightly%20Smiling%20Face.png" alt="Slightly Smiling Face" width="25" height="25" />About Me
-<p>Hi, I'm Zaki Chen, a backend developer from China. </p>
+<p>I'm Zaki Chen, a backend developer from China. </p>
 <p>I've recently started delving into and falling in love with the wonderful world of open source.</p>
 <p> Now, I've embarked on this open source journey and am determined to keep going. </p>
 
