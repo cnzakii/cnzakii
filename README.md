@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Cowboy Hat Face" width="30" height="30" /> Hello 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="30" height="30" /> Hello 
 
 <!-- dynamic typing effect 动态打字效果 -->
 <div>
@@ -20,29 +20,7 @@
 
 <div>&nbsp;</div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Slightly%20Smiling%20Face.png" alt="Slightly Smiling Face" width="25" height="25" />About Me
-<p>I'm Zaki Chen, a backend developer. </p>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dashing%20Away.png" alt="Dashing Away" width="25" height="25" /> GitHub Activity
-
-
-<!-- GitHub Activity Graph GitHub 活动图 -->
-<table>
-    <tr>
-        <td>
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=cnzakii&theme=xcode&bg_color=FF000000&hide_border=true"/>
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=cnzakii&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
-            <img src="https://github-readme-activity-graph.vercel.app/graph?username=cnzakii&theme=xcode&bg_color=FF000000&hide_border=true" />
-          </picture>
-        </td>
-    </tr>
-</table>
-
-<!-- profile-3d-contrib 3D 贡献图-->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/cnzakii/cnzakii/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/cnzakii/cnzakii/profile-3d-contrib/profile-green-animate.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/cnzakii/cnzakii/profile-3d-contrib/profile-green-animate.svg" />
-</picture>
-
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thought%20Balloon.png" alt="Thought Balloon" width="30" height="30" />About Me
+<p> My name is Zaki Chen, and I am currently studying at FZU, with a primary focus on <b>backend development</b>. </p>
+<p> I am an open-source enthusiast actively contributing to the <b>Apache Software Foundation</b>. </p>
+<p> I serve as a <b>Committer</b> for <b>EventMesh</b> and am the author of <b>Dubbo Python</b>. <p> 
