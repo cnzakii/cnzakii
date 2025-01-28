@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="30" height="30" /> Hello 
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="30" height="30" /> Hello 
 
 <!-- dynamic typing effect 动态打字效果 -->
 <div>
@@ -20,7 +20,7 @@
 
 <div>&nbsp;</div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thought%20Balloon.png" alt="Thought Balloon" width="30" height="30" />About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thought%20Balloon.png" alt="Thought Balloon" width="25" height="25" />About Me
 <p> My name is Zaki Chen, and I am currently studying at FZU, with a primary focus on <b>backend development</b>. </p>
 <p> I am an open-source enthusiast actively contributing to the <b>Apache Software Foundation</b>. </p>
 <p> I serve as a <b>Committer</b> for <b>EventMesh</b> and am the author of <b>Dubbo Python</b>. <p> 
