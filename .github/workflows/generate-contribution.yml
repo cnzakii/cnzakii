@@ -1,10 +1,9 @@
-name: Snake Contribution
+name: Generate Contribution
 
 on:
   schedule:
     - cron: "0 10 * * *"
 
-  # allows to manually run the job at any time
   workflow_dispatch:
 
 jobs:
@@ -15,20 +14,17 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      # Step 1: Checkout the repository
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # Step 2: 生成贡献图
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/profile-snake-contribution/github-contribution-grid-snake.svg
-            dist/profile-snake-contribution/github-contribution-grid-snake-dark.svg?palette=github-dark
+            profile-snake-contribution/github-contribution-grid-snake.svg
+            profile-snake-contribution/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # Step 3: 提交更改
       - name: Commit & Push
         run: |
           git config --global user.name "zaki"

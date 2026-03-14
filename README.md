@@ -7,18 +7,14 @@
     </a>
 </div>
 
-<div>&nbsp;</div>
-
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/cnzakii/cnzakii/profile-snake-contribution/github-contribution-grid-snake-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/cnzakii/cnzakii/profile-snake-contribution/github-contribution-grid-snake.svg" />
-        <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cnzakii/cnzakii/main/profile-snake-contribution/github-contribution-grid-snake-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cnzakii/cnzakii/main/profile-snake-contribution/github-contribution-grid-snake.svg" />
+        <img alt="github-snake" src="https://raw.githubusercontent.com/cnzakii/cnzakii/main/profile-snake-contribution/github-contribution-grid-snake-dark.svg" />
     </picture>
 </div>
-
-<div>&nbsp;</div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thought%20Balloon.png" alt="Thought Balloon" width="25" height="25" />About Me
 <p> My name is Zaki Chen, with a primary focus on <b>backend development</b>. </p>
